@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "7c2ef608-e83e-4249-8114-cfa208b8aa20",
+    "OrganizationUrl": "https://smileinnovationsgrouptest.crm3.dynamics.com/",
+    "AppId": "63278c1a-7f19-4ea8-a211-e4890194029b",
+    "SecretId": "k2C8Q~hRCuwEj8PAZC~-jtOiEhGa5vjyaOcadbkC",
+
+    "ScheduleTriggerTime": "0 */2 * * * *", // "0 */2 * * * *", // "0 0 * * * *" , "0 */30 * * * *"
+
+    "UseTodayDate": "true",
+    "CustomDateFrom": "07/04/2023",
+    "CustomDateTo": "07/07/2023"
+  }
+}

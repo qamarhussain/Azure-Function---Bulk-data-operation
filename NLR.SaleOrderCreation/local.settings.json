@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "OrganizationUrl": "",
+    "AppId": "",
+    "SecretId": "",
+
+    "ScheduleTriggerTime": "0 */2 * * * *", // "0 */2 * * * *", // "0 0 * * * *" , "0 */30 * * * *"
+
+    "UseTodayDate": "true",
+    "CustomDateFrom": "07/04/2023",
+    "CustomDateTo": "07/07/2023"
+	//
+  }
+  
+}
